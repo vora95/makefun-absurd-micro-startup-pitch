@@ -1,1 +1,1 @@
-{"description":"make.fun bounty entry: one sentence pitching a micro-startup that books fake meetings into lazy AI agents' calendars.","license":"MIT","name":"makefun-absurd-micro-startup-pitch","private":true,"type":"module","version":"1.0.0"}
+{"name":"makefun-absurd-micro-startup-pitch","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
